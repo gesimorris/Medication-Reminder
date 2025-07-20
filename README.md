@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-Thank you for using this app This guide will help you get started and understand the app's features.
+Thank you for using this app! This guide will help you get started and understand the app's features.
 
 ## Getting Started
 
